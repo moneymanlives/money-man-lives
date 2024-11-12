@@ -1898,7 +1898,9 @@ visibility: hidden;
   .cat-heading h3 {
     padding-top: 20px;
   }
-
+.swiperr {
+    height: 365px;
+}
   .drop-list {
     padding-left: 15px;
   }
@@ -2427,7 +2429,9 @@ visibility: hidden;
 
     margin-bottom: 0px;
   }
-
+.swiperr {
+    height: 409px;
+}
   .items {
     margin-top: 50px;
     background-color: white;
@@ -2495,6 +2499,9 @@ visibility: hidden;
 
     margin-bottom: 0px;
   }
+  .swiperr {
+    height: 470px;
+}
   .items {
     margin-top: 50px;
     background-color: white;
