@@ -2474,7 +2474,9 @@ visibility: hidden;
   .count-list {
     right: 63px;
   }
-
+.bx.bx-x {
+        right: -155px !important;
+    }
   .img h2 {
 
     margin-left: 100px;
