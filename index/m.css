@@ -727,11 +727,11 @@
 
     .con-2 input {
 
-        width: 174%;
+        width: 135%;
     }
 
     .your textarea {
-        width: 174%;
+        width: 135%;
     }
 
     .con-2 {
@@ -1153,10 +1153,10 @@ margin-right: 6px;
         margin-right: 12px;
     }
     .con-2 input {
-        width: 163%;
+        width: 135%;
     }
     .your textarea {
-        width: 163%;
+        width: 135%;
     }
 }
 @media screen and (max-width: 320px) {
@@ -1195,9 +1195,9 @@ margin-right: 6px;
         width: 90%;
     }
     .con-2 input {
-        width: 137%;
+        width: 125%;
     }
     .your textarea {
-        width: 137%;
+        width: 125%;
     }
 }
