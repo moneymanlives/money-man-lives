@@ -1909,7 +1909,7 @@ visibility: hidden;
   padding: 10px 10px 10px 10px;
   float: right;
   position: relative;
-              right: -50px;
+              right: -50px !important;
         top: -18px;
   z-index: 99 !important;
 }
@@ -2403,7 +2403,7 @@ visibility: hidden;
 
 @media screen and (min-width: 375px) {
     .bx.bx-x {
-        right: -104px;
+        right: -104px !important;
     }
   .img h2 {
 
