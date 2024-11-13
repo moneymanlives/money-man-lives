@@ -713,14 +713,6 @@ margin-left: 0px;
         padding-left: 20px;
         padding-right: 20px;
     }
-    .nav-a a {
-        padding: 20px 104px 19px 104px;
-        margin-right: 43px;
-    }
-    .nav-a-one a {
-        padding: 20px 104px 19px 104px;
-        margin-left: 36px;
-    }
 
 
     .dropdown-content {
@@ -776,16 +768,6 @@ margin-left: 0px;
         padding-left: 20px;
         padding-right: 20px;
     }
-    .nav-a a {
-        padding: 20px 70px 19px 70px;
-        margin-right: 47px;
-        margin-bottom: 20px;
-    }
-    .nav-a-one a {
-        padding: 20px 70px 19px 70px;
-        margin-left: 46px;
-    }
-
     .h-one h2{
         font-size: 16px;
         padding-left: 41px;
